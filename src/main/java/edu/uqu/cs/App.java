@@ -11,7 +11,7 @@ package edu.uqu.cs;
  *      b.	Change <Student ID> to your student ID
  */
  
-public class FirstExercise
+public class App
 {
     private static void main( String[] args )
     {
